@@ -1,4 +1,4 @@
-# <img src="http://lesormeaux.net/blocklino/media/icon.png" alt="Blocklino icon"> BLOCKLINO
+# <img src="http://lesormeaux.net/blocklino/media/icon.png" alt="Blocklino icon"> BLOCKLINO Test
 
 A mini development environment for free and open source graphic language. Programs are created by assembling blocks, they are then compiled and sent to the board.
 
